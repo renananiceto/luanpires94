@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Luan! 👋
 
-<!--
-**luanpires94/luanpires94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A Front-End Developer from Brazil.
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanpires94&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpires94&hide=issues&show_icons=true&theme=radical)
+
