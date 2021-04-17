@@ -3,7 +3,6 @@
 # A Front-End Developer from Brazil.
 
 <br />
-<br />
 
 **Languages and Tools:**  
 
