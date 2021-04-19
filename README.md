@@ -18,7 +18,7 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpires94&hide=issues&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpires94&hide=issues,stars&show_icons=true&theme=radical)
 
 <br />
 
